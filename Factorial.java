@@ -10,6 +10,6 @@ public class Factorial {
     }
 
     public static void main(String args[]){
-        System.out.println("Factorial of 5 is: " + compute(5));
+        System.out.println("Factorial of 7 is: " + compute(7));
     }
 }
