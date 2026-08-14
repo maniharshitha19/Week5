@@ -10,6 +10,6 @@ public class Factorial {
     }
 
     public static void main(String args[]){
-        return;
+        System.out.println(compute(5));
     }
 }
